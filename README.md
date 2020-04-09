@@ -27,6 +27,7 @@
 - [About the Project](#about-the-project)
 - [Install](#install-)
 - [Run](#run-)
+- [Tests](#tests)
 
   
 ## About the Project
@@ -48,4 +49,10 @@ Learning the very firsts concepts about ReactJS
 
 1. Run `$ yarn dev` to initialize the server;
 2. Acess localhost:3000/ and good hacking.
+
+## Tests
+
+Here you gonna see how tests work and how it prevents your application from crash.
+
+1. Run `$ yarn test` to run all tests.
 
